@@ -19,7 +19,7 @@
     "ios": "8.0"
   },
   "source_files": "ModuleMap/Classes/**/*",
-  "pod_target_xcconfig": {
-    "OTHER_LDFLAGS": "-Wl,-sectcreate,__MODULE,__module,$(PROJECT_DIR)/../modules.json"
+  "user_target_xcconfig": {
+    "OTHER_LDFLAGS": "-Wl,-sectcreate,__MODULE,__module,$(PROJECT_DIR)/modules.json"
   }
 }

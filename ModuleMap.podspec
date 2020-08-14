@@ -31,5 +31,5 @@ TODO: Add long description of the pod here.
   s.ios.deployment_target = '8.0'
 
   s.source_files = 'ModuleMap/Classes/**/*'
-  s.pod_target_xcconfig = { 'OTHER_LDFLAGS' => '-Wl,-sectcreate,__MODULE,__module,$(PROJECT_DIR)/../modules.json' }
+  s.user_target_xcconfig = { 'OTHER_LDFLAGS' => '-Wl,-sectcreate,__MODULE,__module,$(PROJECT_DIR)/modules.json' }
 end
