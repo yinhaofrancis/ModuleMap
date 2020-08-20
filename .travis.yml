@@ -1,4 +1,5 @@
 language: objective-c
-xcode_project: MyNewProject.xcodeproj # path to your xcodeproj folder
+podfile: Example/Podfile
+xcode_workspace: Example/ModuleMap.xcworkspace
 xcode_scheme: ModuleMap-Example
 xcode_destination: platform=iOS Simulator,OS=9.0,name=iPad Pro (9.7-inch)
