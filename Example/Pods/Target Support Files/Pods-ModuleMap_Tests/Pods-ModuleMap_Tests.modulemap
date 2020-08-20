@@ -1,6 +1,0 @@
-framework module Pods_ModuleMap_Tests {
-  umbrella header "Pods-ModuleMap_Tests-umbrella.h"
-
-  export *
-  module * { export * }
-}
