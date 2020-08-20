@@ -1,9 +1,6 @@
 # ModuleMap
 
-[![CI Status](https://img.shields.io/travis/yinhaofrancis/ModuleMap.svg?style=flat)](https://travis-ci.org/yinhaofrancis/ModuleMap.svg?branch=master)
-[![Version](https://img.shields.io/cocoapods/v/ModuleMap.svg?style=flat)](https://cocoapods.org/pods/ModuleMap)
-[![License](https://img.shields.io/cocoapods/l/ModuleMap.svg?style=flat)](https://cocoapods.org/pods/ModuleMap)
-[![Platform](https://img.shields.io/cocoapods/p/ModuleMap.svg?style=flat)](https://cocoapods.org/pods/ModuleMap)
+![CI Status](https://travis-ci.org/yinhaofrancis/ModuleMap.svg?branch=master)
 
 ## Example
 
@@ -22,7 +19,7 @@ pod 'ModuleMap'
 
 ## Author
 
-yinhaofrancis, yinhao@5eplay.com
+yinhaofrancis
 
 ## License
 
